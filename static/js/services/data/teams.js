@@ -27,7 +27,7 @@ angular.module("marchmadness")
             p10:14,
             p2: 15,
             p15:15 
-        }
+        };
         function calculatePositions(teams){
             _.each(teams, function(team){
                 team.position = rankingsToPositions['p' + team.ranking];
@@ -40,7 +40,7 @@ angular.module("marchmadness")
             West: 2,
             East: 3,
             South: 4,
-        }
+        };
         function calculateRegionIds(teams){
             _.each(teams, function(team){
                 team.regionId = regionsToIds[team.region];

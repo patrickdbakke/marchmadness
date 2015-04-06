@@ -5,34 +5,32 @@ angular.module('marchmadness')
 		$scope.datasets = [];
 		$scope.template = function(datapoint){
 			datapoint.datapoint.scores = datapoint.datapoint.game.score.split(' to ');
-			datapoint.teams = [
-				teams[datapoint.datapoint.game.participants[0]],
-				teams[datapoint.datapoint.game.participants[1]],
-			];
 			return _.template(tooltipTemplate, {
                 interpolate: /\{\{(.+?)\}\}/g
             })(datapoint);
 		};
-		$scope.games = _.map(games, function(game){
-			game.participants = game.participants.sort(function(participant1, participant2){
-				var team1val = 0;
-				var team2val = 0;
+		$scope.teams = teams;
+		function sortByRanking(participant1, participant2){
+			var team1val = 0;
+			var team2val = 0;
+			if(teams[participant1]){
+				team1val = teams[participant1].regionId;
+			}
+			if(teams[participant2]){
+				team2val = teams[participant2].regionId;
+			}
+			if(team1val === team2val){
 				if(teams[participant1]){
-					team1val = teams[participant1].regionId;
+					team1val = teams[participant1].position;
 				}
 				if(teams[participant2]){
-					team2val = teams[participant2].regionId;
+					team2val = teams[participant2].position;
 				}
-				if(team1val === team2val){
-					if(teams[participant1]){
-						team1val = teams[participant1].position;
-					}
-					if(teams[participant2]){
-						team2val = teams[participant2].position;
-					}
-				}
-				return team1val - team2val;
-			});
+			}
+			return team1val - team2val;
+		}
+		games = _.map(games, function(game){
+			game.participants = game.participants.sort(sortByRanking);
 			game.teams = _.map(game.participants, function(team){
 				return teams[team];
 			});
@@ -44,7 +42,7 @@ angular.module('marchmadness')
                 if(game.round >= 6){
                     return '0';
                 }
-                if(game.round == 5){
+                if(game.round === 5){
                     console.log(game);
                 }
                 for(var i = 0;i < games.length; i++){
@@ -65,7 +63,7 @@ angular.module('marchmadness')
                 }
             }
             _.each(rounds,function(round){
-                _.each($scope.games, function(game){
+                _.each(games, function(game){
                     if(game.round === round){
                         game.treeIds = getTreeIds(game);
                     }
@@ -73,7 +71,7 @@ angular.module('marchmadness')
             });
 		}
 		addTreeIds();
-		$scope.games = _.sortBy($scope.games, 'treeIds');
+		$scope.games = _.sortBy(games, 'treeIds');
 
 		_.each(brackets, function(bracketObj){
 			var sum = 0;
@@ -108,4 +106,29 @@ angular.module('marchmadness')
 				datapoints: data
 			});
 		});
+
+		$scope.selectBracket = function selectBracket(bracketName){
+			if (bracketName === 'correct') {
+				_.each($scope.games, function(game){
+					game.predictedParticipants = _.clone(game.participants);
+				});
+			} else {
+				var selectedBracket = _.map(_.find(brackets, {name: bracketName}).bracket, function(round, team){
+					return {
+						team: team,
+						round: round
+					};
+				});
+
+				_.each($scope.games, function(game){
+					var predictedForRound = _.map(_.filter(selectedBracket, function(bracketGame){
+						return bracketGame.round >= game.round;
+					}), function(bracket){
+						return bracket.team;
+					});
+					game.predictedParticipants = _.intersection(game.possibleParticipants, predictedForRound).sort(sortByRanking);
+				});
+			}
+		}
+		$scope.selectBracket('correct');
 	});

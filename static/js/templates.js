@@ -61,15 +61,15 @@ angular.module("views/tooltip.html", []).run(["$templateCache", function($templa
   $templateCache.put("views/tooltip.html",
     "<div class=\"tooltipContent\">\n" +
     "	<div class=\"author\">{{dataset.name}}'s bracket</div>\n" +
-    "	<div class=\"game\">\n" +
-    "		<span class=\"team\" style=\"border-color:{{teams[0].colors[0]}};\">\n" +
+    "	<!-- <div class=\"game\">\n" +
+    "		<span class=\"team\">\n" +
     "			<span class=\"name\">{{datapoint.game.participants[0]}}</span>\n" +
     "			<span class=\"score\">{{datapoint.scores[0]}}</span>\n" +
     "		</span>\n" +
-    "		<span class=\"team\" style=\"border-color:{{teams[1].colors[0]}};\">\n" +
+    "		<span class=\"team\">\n" +
     "			<span class=\"name\">{{datapoint.game.participants[1]}}</span>\n" +
     "			<span class=\"score\">{{datapoint.scores[1]}}</span>\n" +
     "		</span>\n" +
-    "	</div>\n" +
+    "	</div> -->\n" +
     "</div>");
 }]);

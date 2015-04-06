@@ -82,42 +82,46 @@ angular.module('marchmadness')
                     }
                 });
                 var mousemove = function(e) {
-                    var vector = new THREE.Vector3(
-                        ( e.offsetX / $width ) * 2 - 1,
-                      - ( e.offsetY / $height ) * 2 + 1,
-                        0.5
-                    );
-                    projector.unprojectVector( vector, chart.camera );
-                    var ray = new THREE.Raycaster(chart.camera.position, vector.sub( chart.camera.position ).normalize() );
-                    var intersects = ray.intersectObjects( chart.scene.children );
-                    if (intersects.length > 0) {
-                        var set = intersects[0].object.dataset;
-                        var nearest = null;
-                        var nearestDistance = Number.MAX_VALUE;
-                        _.each(set.datapoints, function(datapoint){
-                            var distance = Math.abs(datapoint.x - (intersects[0].point.x + set.datapoints.length / 2));
-                            if(distance < nearestDistance){
-                                nearest = datapoint;
-                                nearestDistance = distance;
+                    if(e.srcElement === renderer.domElement){
+                        var vector = new THREE.Vector3(
+                            ( e.offsetX / $width ) * 2 - 1,
+                          - ( e.offsetY / $height ) * 2 + 1,
+                            0.5
+                        );
+                        projector.unprojectVector( vector, chart.camera );
+                        var ray = new THREE.Raycaster(chart.camera.position, vector.sub( chart.camera.position ).normalize() );
+                        var intersects = ray.intersectObjects( chart.scene.children );
+                        if (intersects.length > 0) {
+                            var set = intersects[0].object.dataset;
+                            var nearest = null;
+                            var nearestDistance = Number.MAX_VALUE;
+                            _.each(set.datapoints, function(datapoint){
+                                var distance = Math.abs(datapoint.x - (intersects[0].point.x + set.datapoints.length / 2));
+                                if(distance < nearestDistance){
+                                    nearest = datapoint;
+                                    nearestDistance = distance;
+                                }
+                            });
+                            if(nearest && nearest.datapoint && nearest.datapoint.game){
+                                showTooltip(nearest, e.offsetX, e.offsetY);
+                                $scope.selectBracket(nearest.dataset.name);
                             }
-                        });
-                        if(nearest && nearest.datapoint && nearest.datapoint.game){
-                            showTooltip(nearest, e.offsetX, e.offsetY);
+                        } else {
+                            console.log(e.offsetX, e.offsetY);
+                            $tooltip.removeClass('visible');
+                            // $scope.selectBracket('correct');
                         }
-                    } else {
-                        // $tooltip.removeClass('visible');
                     }
                 };
                 $element.on('mousemove', mousemove);
                 $scope.activeBracket = null;
                 function showTooltip(datapoint, x, y){
-                    console.log(datapoint);
                     $tooltip.css('left', x + 'px');
                     $tooltip.css('top', y + 'px');
                     $tooltip.addClass('visible');
                     $tooltip.empty();
                     $tooltip.html($scope.template(datapoint));
-                    $scope.activeBracket = datapoint.dataset;
+                    // $scope.activeBracket = datapoint.dataset;
                     $scope.$digest();
                 }
                 renderer = new THREE.WebGLRenderer({antialias: true});
