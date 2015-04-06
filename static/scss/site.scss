@@ -1,0 +1,215 @@
+@import "shared/fonts";
+@import "shared/icons";
+@import "shared/resets";
+@import "shared/colors";
+
+body, html {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    overflow: hidden;
+    font-family: OpenSansLight;
+    background:$blue;
+    color:$white;
+}
+
+
+#marchmadness {
+    z-index: 2;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.full{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+.half{
+    position:absolute;
+    top:0;
+    left:0;
+    right:50%;
+    bottom:0;
+    &.right{
+        left:50%;
+        right:0;
+    }
+}
+#lineChart{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    z-index:2;
+}
+#bracket{
+    left:2em;
+    right:2em;
+}
+#content{
+    z-index:2;
+}
+.tooltip{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    z-index:3;
+    width:0;
+    height:0;
+    opacity:0;
+    &.visible{
+        opacity:1;
+    }
+    .tooltipContent{
+        box-shadow: 0 0 5px $black;
+        position: absolute;
+        bottom: .75em;
+        background: $white;
+        color: $blue;
+        padding: .25em .5em;
+        width: 20em;
+        left: -10em;
+        padding-bottom:3em;
+        font-family: monospace;
+        text-transform: uppercase;
+        .team{
+            position:absolute;
+            left:0;
+            width:50%;
+            right:50%;
+            bottom:0;
+            &:nth-child(2){
+                left:50%;
+                right:0;
+            }
+        }
+        &:after{
+              content: '';
+              position: absolute;
+              left: 50%;
+              top: 100%;
+              margin-top:-.75em;
+              margin-left:-.75em;
+              height: 1.5em;
+              width:1.5em;
+              z-index:-1;
+              transform-origin:50% 50%;
+              transform:rotate(-45deg);
+              box-shadow: 0 0 5px $black;
+              background:$white;
+        }
+    }
+}
+.rounds{
+    font-size:1em;
+    font-weight:bold;
+    $gameHeight:1/17*100%;
+    $gameWidth:1/15*100%;
+    position:absolute;
+    height:17*$gameHeight;
+    width:100%;
+    overflow:visible;
+    .round{
+        @for $i from 1 to 6 {
+            &.#{'round' + ($i)}{
+                @if($i <= 5){
+                    @for $j from 0 to (pow(2, 5 - $i)) {
+                        .#{'game:nth-child(' + (pow(2, 5 - $i)) + 'n + ' + ($j + 1) + ')'}{
+                            @if($j < pow(2, 5 - $i - 1)){
+                                top:(1 + (pow(2, $i - 1) - 1)) * $j * $gameHeight + (pow(2, $i - 1) - 1) * $gameHeight/2;
+                            } @else {
+                                top:(1 + (pow(2, $i - 1) - 1)) * $j * $gameHeight + $gameHeight + (pow(2, $i - 1) - 1) * $gameHeight/2;
+                            }
+                        }
+                    }
+                    .game{
+                        // left:pow(1.5, $i - 1) * $gameWidth * 5/7 - $gameWidth/2;
+                        left:$gameWidth * ($i - 1) + $gameWidth/5*($i - 1);
+                        right:auto;
+                    }
+                    .#{'game:nth-child(' + (pow(2, 5 - $i)) + ') ~ .game'}{
+                        // right:pow(1.5, $i - 1) * $gameWidth * 5/7 - $gameWidth/2;
+                        right:$gameWidth * ($i - 1) + $gameWidth/5*($i - 1);
+                        left:auto;
+                        text-align:right;
+                    }
+                }
+            }
+        }
+        &.round6{
+            display:none;
+        }
+        position:absolute;
+        top:0;
+        left:0;
+        right:0;
+        bottom:0;
+        font-size:.7em;
+        display:inline-block;
+        line-height:0;
+        margin:0;
+        .game{
+            line-height:1;
+            margin:0;
+            position:relative;
+            height:$gameHeight;
+            width:$gameWidth;
+            position:absolute;
+            left:0;
+            background:#fff;
+            color:$black;
+            border-radius:2px;
+            overflow:visible;
+            .team{
+                position:absolute;
+                top:0;
+                left:0;
+                right:0;
+                bottom:50%;
+                &:nth-child(2){
+                    top:50%;
+                    bottom:0;
+                }
+                .name{
+                    position:absolute;
+                    top:0;
+                    left:0;
+                    right:0;
+                    bottom:0;
+                    padding:.25em;
+                    font-size:.8em;
+                }
+            }
+        }
+        &.round1 .game{
+            box-shadow:none;
+        }
+    }
+}
+.team{
+    position:relative;
+    display:block;
+    padding: .25em .25em;
+    padding-right: 1.5em;
+    .score{
+        position:absolute;
+        right:0;
+        text-align:left;
+        width:1.5em;
+        background:$white;
+        color:$black;
+        top:0;
+        padding: .5em .25em;
+        vertical-align: middle;
+        text-align:center;
+        box-shadow: inset 0 0 5px $black;
+    }
+}

@@ -1,0 +1,262 @@
+[
+	{
+		"name":"Patrick B",
+		"bracket":{"Kentucky":4,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":3,"Buffalo":1,"Maryland":2,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":5,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":3,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":3,"Ole Miss":1,"Baylor":2,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":6,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":3,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":5,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 118
+	},
+	{
+		"name":"Mike G",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":4,"Northeastern":1,"Wichita St.":3,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":4,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":5,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":4,"Dayton":1,"Oklahoma":2,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":3,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":1,"UCLA":2,"Iowa St.":4,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 138
+	},
+	{
+		"name":"Andrew J",
+		"bracket":{"Kentucky":2,"Hampton":1,"Cincinnati":3,"Purdue":1,"W. Virginia":2,"Buffalo":1,"Maryland":4,"Valparaiso":1,"Butler":1,"Texas":3,"Notre Dame":2,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":7,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":1,"Wofford":3,"N. Carolina":2,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":4,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":2,"Wyoming":1,"Louisville":5,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":4,"Belmont":1,"Duke":3,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":2,"SF Austin":1,"Georgetown":6,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 170
+	},
+	{
+		"name":"Jeff M",
+		"bracket":{"Kentucky":6,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":4,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":5,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":7,"Belmont":1,"Duke":3,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":4,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":5,"No. Dak. St.":1},
+		"tiebreaker": 115
+	},
+	{
+		"name":"Lauren P",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":4,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":1,"Wofford":2,"N. Carolina":1,"Harvard":3,"Xavier":2,"Ole Miss":1,"Baylor":4,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":3,"Texas So.":1,"Villanova":6,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":4,"Georgia":1,"Virginia":1,"Belmont":2,"Duke":3,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":2,"SF Austin":1,"Georgetown":5,"E. Wash.":1,"SMU":1,"UCLA":3,"Iowa St.":2,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 138
+	},
+	{
+		"name":"Craig R",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":4,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":3,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":5,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 142
+	},
+	{
+		"name":"Zach B",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":4,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":4,"Texas So.":1,"Villanova":6,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":4,"Belmont":1,"Duke":5,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":2,"SF Austin":1,"Georgetown":3,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 176
+	},
+	{
+		"name":"Alex D",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":3,"Buffalo":1,"Maryland":2,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":4,"Northeastern":1,"Wichita St.":3,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":7,"Texas So.":1,"Villanova":6,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":4,"Dayton":1,"Oklahoma":2,"Albany":1,"Michigan St.":1,"Georgia":2,"Virginia":3,"Belmont":1,"Duke":5,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":2,"SF Austin":1,"Georgetown":3,"E. Wash.":1,"SMU":3,"UCLA":1,"Iowa St.":2,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 130
+	},
+	{
+		"name":"Ian K",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":4,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":3,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":5,"Texas So.":1,"Villanova":6,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":4,"Belmont":1,"Duke":5,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 137
+	},
+	{
+		"name":"Adam N",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":4,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":3,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":1,"Ole Miss":3,"Baylor":2,"Georgia St.":1,"VCU":1,"Ohio St.":4,"Arizona":2,"Texas So.":1,"Villanova":5,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":4,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":3,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":2,"SF Austin":1,"Georgetown":3,"E. Wash.":1,"SMU":1,"UCLA":3,"Iowa St.":2,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 134
+	},
+	{
+		"name":"Omar M",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":4,"New Mex. St.":1,"Wisconsin":3,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":5,"Harvard":1,"Xavier":3,"Ole Miss":1,"Baylor":1,"Georgia St.":2,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":2,"Lafayette":1,"NC State":3,"LSU":1,"N. Iowa":2,"Wyoming":1,"Louisville":6,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":1,"Georgia":2,"Virginia":4,"Belmont":1,"Duke":3,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":1,"SF Austin":4,"Georgetown":2,"E. Wash.":1,"SMU":1,"UCLA":2,"Iowa St.":3,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":5,"No. Dak. St.":1},
+		"tiebreaker": 146
+	},
+	{
+		"name":"Derek S",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":3,"Buffalo":1,"Maryland":1,"Valparaiso":2,"Butler":1,"Texas":2,"Notre Dame":4,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":3,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":6,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":4,"Belmont":1,"Duke":5,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":4,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 15
+	},
+	{
+		"name":"Gene G",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":4,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":3,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":5,"Texas So.":1,"Villanova":6,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":1,"Wyoming":2,"Louisville":3,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":4,"Belmont":1,"Duke":5,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 129
+	},
+	{
+		"name":"Katie B",
+		"bracket":{"Kentucky":4,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":5,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":7,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":1,"Dayton":3,"Oklahoma":2,"Albany":1,"Michigan St.":5,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":2,"SF Austin":1,"Georgetown":3,"E. Wash.":1,"SMU":1,"UCLA":2,"Iowa St.":3,"UAB":1,"Iowa":4,"Davidson":1,"Gonzaga":2,"No. Dak. St.":1},
+		"tiebreaker": 120
+	},
+	{
+		"name":"Dan P",
+		"bracket":{"Kentucky":4,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":3,"Buffalo":1,"Maryland":2,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":7,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":3,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":3,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":3,"Ole Miss":1,"Baylor":2,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":4,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":6,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":2,"Georgetown":3,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":5,"UAB":1,"Iowa":3,"Davidson":1,"Gonzaga":2,"No. Dak. St.":1},
+		"tiebreaker": 122
+	},
+	{
+		"name":"Kara K",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":4,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":5,"Arizona":2,"Texas So.":1,"Villanova":6,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":1,"Georgia":2,"Virginia":4,"Belmont":1,"Duke":5,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":2,"SF Austin":1,"Georgetown":3,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 114
+	},
+	{
+		"name":"Morgan S",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":3,"Buffalo":1,"Maryland":2,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":4,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":3,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":5,"Texas So.":1,"Villanova":5,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":4,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":3,"Belmont":1,"Duke":2,"Robert Morris":1,"San Diego St":1,"St. John's":3,"Utah":4,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":6,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 142
+	},
+	{
+		"name":"Scott H",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":4,"Northeastern":1,"Wichita St.":3,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":3,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":4,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":5,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":1,"Wyoming":2,"Louisville":5,"UC Irvine":1,"Providence":3,"Dayton":1,"Oklahoma":2,"Albany":1,"Michigan St.":4,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":3,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 149
+	},
+	{
+		"name":"Brian G",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":4,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":5,"Texas So.":1,"Villanova":5,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":3,"Dayton":1,"Oklahoma":2,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":4,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":3,"Georgetown":1,"E. Wash.":2,"SMU":2,"UCLA":1,"Iowa St.":4,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 145
+	},
+	{
+		"name":"Kimberly G",
+		"bracket":{"Kentucky":6,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":3,"Northeastern":1,"Wichita St.":4,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":5,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":3,"Belmont":1,"Duke":3,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":2,"SF Austin":1,"Georgetown":4,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":7,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 128
+	},
+	{
+		"name":"Wendy P",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":4,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":3,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":6,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":4,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":5,"No. Dak. St.":1},
+		"tiebreaker": 120
+	},
+	{
+		"name":"Anna P",
+		"bracket":{"Kentucky":4,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":3,"Buffalo":1,"Maryland":1,"Valparaiso":2,"Butler":2,"Texas":1,"Notre Dame":5,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":3,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":3,"Ole Miss":1,"Baylor":2,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":1,"Wyoming":2,"Louisville":3,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":5,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":2,"Georgetown":3,"E. Wash.":1,"SMU":1,"UCLA":4,"Iowa St.":2,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 162
+	},
+	{
+		"name":"Chris O",
+		"bracket":{"Kentucky":4,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":7,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":3,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":3,"Ole Miss":1,"Baylor":2,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":5,"Belmont":1,"Duke":2,"Robert Morris":1,"San Diego St":1,"St. John's":4,"Utah":3,"SF Austin":1,"Georgetown":1,"E. Wash.":2,"SMU":2,"UCLA":1,"Iowa St.":6,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 125
+	},
+	{
+		"name":"Josh F",
+		"bracket":{"Kentucky":6,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":2,"Buffalo":1,"Maryland":1,"Valparaiso":3,"Butler":1,"Texas":2,"Notre Dame":4,"Northeastern":1,"Wichita St.":1,"Indiana":3,"Kansas":2,"New Mex. St.":1,"Wisconsin":2,"Coast. Car.":1,"Oregon":3,"Oklahoma St.":1,"Arkansas":5,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":4,"Georgia St.":1,"VCU":1,"Ohio St.":3,"Arizona":2,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":4,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":7,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":3,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":2,"Georgetown":4,"E. Wash.":1,"SMU":1,"UCLA":2,"Iowa St.":3,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":5,"No. Dak. St.":1},
+		"tiebreaker": 111
+	},
+	{
+		"name":"Anthony A",
+		"bracket":{"Kentucky":6,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":4,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":3,"New Mex. St.":1,"Wisconsin":3,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":1,"Wofford":2,"N. Carolina":5,"Harvard":1,"Xavier":3,"Ole Miss":1,"Baylor":2,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":2,"Lafayette":1,"NC State":1,"LSU":3,"N. Iowa":1,"Wyoming":2,"Louisville":4,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":5,"Belmont":1,"Duke":7,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":2,"SF Austin":1,"Georgetown":3,"E. Wash.":1,"SMU":1,"UCLA":2,"Iowa St.":4,"UAB":1,"Iowa":3,"Davidson":1,"Gonzaga":1,"No. Dak. St.":2},
+		"tiebreaker": 136
+	},
+	{
+		"name":"Jillian S",
+		"bracket":{"Kentucky":6,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":4,"Texas":1,"Notre Dame":2,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":3,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":5,"Georgia St.":1,"VCU":1,"Ohio St.":3,"Arizona":2,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":4,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":5,"Belmont":1,"Duke":7,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":3,"SF Austin":1,"Georgetown":1,"E. Wash.":2,"SMU":1,"UCLA":2,"Iowa St.":4,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 189
+	},
+	{
+		"name":"Kelly H",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":4,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":3,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":7,"Texas So.":1,"Villanova":5,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":4,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":2,"SF Austin":1,"Georgetown":3,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 157
+	},
+	{
+		"name":"Brynn M",
+		"bracket":{"Kentucky":2,"Hampton":1,"Cincinnati":1,"Purdue":4,"W. Virginia":1,"Buffalo":3,"Maryland":2,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":3,"Northeastern":1,"Wichita St.":1,"Indiana":5,"Kansas":2,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":3,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":4,"Ole Miss":1,"Baylor":2,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":3,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":6,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":5,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":4,"Davidson":1,"Gonzaga":1,"No. Dak. St.":2},
+		"tiebreaker": 136
+	},
+	{
+		"name":"Mark R",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":3,"Buffalo":1,"Maryland":1,"Valparaiso":2,"Butler":2,"Texas":1,"Notre Dame":3,"Northeastern":1,"Wichita St.":4,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":1,"Wofford":3,"N. Carolina":2,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":4,"Georgia St.":1,"VCU":1,"Ohio St.":3,"Arizona":2,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":6,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":4,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":3,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":5,"No. Dak. St.":1},
+		"tiebreaker": 152
+	},
+	{
+		"name":"Molli W",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":4,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":5,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":1,"SF Austin":3,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 153
+	},
+	{
+		"name":"Jill M",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":4,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":5,"Texas So.":1,"Villanova":5,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":4,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":1,"E. Wash.":2,"SMU":2,"UCLA":1,"Iowa St.":4,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 141
+	},
+	{
+		"name":"Dave C",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":3,"Notre Dame":2,"Northeastern":1,"Wichita St.":4,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":3,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":3,"Ole Miss":1,"Baylor":2,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":5,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":5,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":1,"Georgia":2,"Virginia":4,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":2,"Georgetown":3,"E. Wash.":1,"SMU":3,"UCLA":1,"Iowa St.":2,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":6,"No. Dak. St.":1},
+		"tiebreaker": 142
+	},
+	{
+		"name":"Joel M",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":1,"Buffalo":3,"Maryland":2,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":4,"Northeastern":1,"Wichita St.":3,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":3,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":4,"Arizona":2,"Texas So.":1,"Villanova":2,"Lafayette":1,"NC State":1,"LSU":5,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":4,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":3,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":6,"No. Dak. St.":1},
+		"tiebreaker": 136
+	},
+	{
+		"name":"Mary W",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":4,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":3,"Wofford":1,"N. Carolina":1,"Harvard":2,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":1,"Wyoming":2,"Louisville":4,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":1,"Georgia":2,"Virginia":5,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":1,"UCLA":2,"Iowa St.":3,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 127
+	},
+	{
+		"name":"Beth P",
+		"bracket":{"Kentucky":6,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":1,"Valparaiso":3,"Butler":4,"Texas":1,"Notre Dame":2,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":3,"New Mex. St.":1,"Wisconsin":2,"Coast. Car.":1,"Oregon":3,"Oklahoma St.":1,"Arkansas":1,"Wofford":2,"N. Carolina":4,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":5,"Texas So.":1,"Villanova":7,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":1,"Wyoming":2,"Louisville":3,"UC Irvine":1,"Providence":3,"Dayton":1,"Oklahoma":2,"Albany":1,"Michigan St.":4,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":5,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":2,"SF Austin":1,"Georgetown":3,"E. Wash.":1,"SMU":1,"UCLA":3,"Iowa St.":2,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 139
+	},
+	{
+		"name":"Mike C",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":4,"Northeastern":1,"Wichita St.":3,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":3,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":5,"Texas So.":1,"Villanova":5,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":1,"Dayton":3,"Oklahoma":2,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":4,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":1,"E. Wash.":2,"SMU":2,"UCLA":1,"Iowa St.":4,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 146
+	},
+	{
+		"name":"Justyn H",
+		"bracket":{"Kentucky":4,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":1,"Buffalo":3,"Maryland":1,"Valparaiso":2,"Butler":2,"Texas":1,"Notre Dame":7,"Northeastern":1,"Wichita St.":3,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":1,"Wofford":2,"N. Carolina":3,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":1,"UC Irvine":2,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":5,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":1,"SF Austin":2,"Georgetown":3,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 176
+	},
+	{
+		"name":"J L",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":3,"Buffalo":1,"Maryland":2,"Valparaiso":1,"Butler":3,"Texas":1,"Notre Dame":2,"Northeastern":1,"Wichita St.":4,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":1,"Wofford":3,"N. Carolina":2,"Harvard":1,"Xavier":1,"Ole Miss":3,"Baylor":2,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":4,"Wyoming":1,"Louisville":1,"UC Irvine":2,"Providence":3,"Dayton":1,"Oklahoma":2,"Albany":1,"Michigan St.":1,"Georgia":2,"Virginia":5,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":1,"SF Austin":3,"Georgetown":1,"E. Wash.":2,"SMU":2,"UCLA":1,"Iowa St.":6,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 133
+	},
+	{
+		"name":"Lori B",
+		"bracket":{"Kentucky":4,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":3,"Buffalo":1,"Maryland":1,"Valparaiso":2,"Butler":2,"Texas":1,"Notre Dame":3,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":7,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":4,"Texas So.":1,"Villanova":5,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":4,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":1,"UCLA":2,"Iowa St.":6,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 186
+	},
+	{
+		"name":"David M",
+		"bracket":{"Kentucky":4,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":1,"Buffalo":3,"Maryland":1,"Valparaiso":2,"Butler":2,"Texas":1,"Notre Dame":5,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":3,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":1,"Wofford":2,"N. Carolina":1,"Harvard":3,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":4,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":5,"Albany":1,"Michigan St.":1,"Georgia":2,"Virginia":3,"Belmont":1,"Duke":3,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":2,"Georgetown":6,"E. Wash.":1,"SMU":1,"UCLA":4,"Iowa St.":2,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 110
+	},
+	{
+		"name":"Danny C",
+		"bracket":{"Kentucky":6,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":4,"Northeastern":1,"Wichita St.":1,"Indiana":3,"Kansas":2,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":3,"Ole Miss":1,"Baylor":2,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":1,"Georgia":2,"Virginia":7,"Belmont":1,"Duke":5,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":3,"Georgetown":2,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":3,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 137
+	},
+	{
+		"name":"Melanie D",
+		"bracket":{"Kentucky":6,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":4,"Northeastern":1,"Wichita St.":3,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":1,"Wofford":3,"N. Carolina":2,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":5,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":4,"Wyoming":1,"Louisville":1,"UC Irvine":2,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":5,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":3,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":2,"SF Austin":1,"Georgetown":1,"E. Wash.":4,"SMU":2,"UCLA":1,"Iowa St.":7,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 138
+	},
+	{
+		"name":"Alex N",
+		"bracket":{"Kentucky":4,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":1,"Buffalo":3,"Maryland":2,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":7,"New Mex. St.":1,"Wisconsin":3,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":4,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":5,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":5,"Dayton":1,"Oklahoma":2,"Albany":1,"Michigan St.":3,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":3,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":4,"SF Austin":1,"Georgetown":1,"E. Wash.":2,"SMU":1,"UCLA":2,"Iowa St.":6,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 120
+	},
+	{
+		"name":"Lara K",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":4,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":1,"Dayton":2,"Oklahoma":3,"Albany":1,"Michigan St.":5,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":2,"Georgetown":3,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":6,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 121
+	},
+	{
+		"name":"Virginia T",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":3,"Buffalo":1,"Maryland":2,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":4,"Northeastern":1,"Wichita St.":1,"Indiana":3,"Kansas":2,"New Mex. St.":1,"Wisconsin":3,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":5,"Harvard":1,"Xavier":2,"Ole Miss":1,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":1,"Georgia":2,"Virginia":5,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":3,"SF Austin":1,"Georgetown":2,"E. Wash.":1,"SMU":3,"UCLA":1,"Iowa St.":2,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 136
+	},
+	{
+		"name":"Bob A",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":4,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":3,"New Mex. St.":1,"Wisconsin":3,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":2,"Wofford":1,"N. Carolina":4,"Harvard":1,"Xavier":1,"Ole Miss":3,"Baylor":2,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":7,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":3,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":6,"Belmont":1,"Duke":5,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":1,"SF Austin":3,"Georgetown":2,"E. Wash.":1,"SMU":3,"UCLA":1,"Iowa St.":2,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":4,"No. Dak. St.":1},
+		"tiebreaker": 149
+	},
+	{
+		"name":"Taylor C",
+		"bracket":{"Kentucky":4,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":5,"Northeastern":1,"Wichita St.":3,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":2,"Oklahoma St.":1,"Arkansas":3,"Wofford":1,"N. Carolina":1,"Harvard":2,"Xavier":1,"Ole Miss":3,"Baylor":2,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":1,"Wyoming":2,"Louisville":4,"UC Irvine":1,"Providence":3,"Dayton":1,"Oklahoma":1,"Albany":2,"Michigan St.":5,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":1,"SF Austin":2,"Georgetown":3,"E. Wash.":1,"SMU":1,"UCLA":2,"Iowa St.":6,"UAB":1,"Iowa":1,"Davidson":3,"Gonzaga":2,"No. Dak. St.":1},
+		"tiebreaker": 151
+	},
+	{
+		"name":"John E",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":2,"Purdue":1,"W. Virginia":3,"Buffalo":1,"Maryland":2,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":4,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":3,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":1,"Ole Miss":3,"Baylor":2,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":7,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":2,"Wyoming":1,"Louisville":4,"UC Irvine":1,"Providence":1,"Dayton":3,"Oklahoma":2,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":6,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":3,"SF Austin":1,"Georgetown":1,"E. Wash.":2,"SMU":2,"UCLA":1,"Iowa St.":5,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 142
+	},
+	{
+		"name":"Jefe R",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":3,"Buffalo":1,"Maryland":1,"Valparaiso":2,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":4,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":4,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":3,"Wofford":1,"N. Carolina":2,"Harvard":1,"Xavier":3,"Ole Miss":1,"Baylor":2,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":7,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":1,"Dayton":3,"Oklahoma":1,"Albany":2,"Michigan St.":2,"Georgia":1,"Virginia":6,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":3,"SF Austin":1,"Georgetown":1,"E. Wash.":2,"SMU":2,"UCLA":1,"Iowa St.":5,"UAB":1,"Iowa":1,"Davidson":3,"Gonzaga":2,"No. Dak. St.":1},
+		"tiebreaker": 140
+	},
+	{
+		"name":"Katie P",
+		"bracket":{"Kentucky":5,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":1,"Buffalo":2,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":3,"Northeastern":1,"Wichita St.":1,"Indiana":2,"Kansas":4,"New Mex. St.":1,"Wisconsin":7,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":2,"Wofford":1,"N. Carolina":3,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":4,"Texas So.":1,"Villanova":6,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":2,"Wyoming":1,"Louisville":3,"UC Irvine":1,"Providence":2,"Dayton":1,"Oklahoma":4,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":3,"Belmont":1,"Duke":3,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":2,"SF Austin":1,"Georgetown":4,"E. Wash.":1,"SMU":2,"UCLA":1,"Iowa St.":5,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker":135
+	},
+	{
+		"name":"Sara T",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":1,"Texas":2,"Notre Dame":3,"Northeastern":1,"Wichita St.":2,"Indiana":1,"Kansas":4,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":1,"Wofford":2,"N. Carolina":3,"Harvard":1,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":2,"Ohio St.":1,"Arizona":4,"Texas So.":1,"Villanova":4,"Lafayette":1,"NC State":2,"LSU":1,"N. Iowa":3,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":3,"Dayton":1,"Oklahoma":2,"Albany":1,"Michigan St.":2,"Georgia":1,"Virginia":5,"Belmont":1,"Duke":6,"Robert Morris":1,"San Diego St":2,"St. John's":1,"Utah":1,"SF Austin":3,"Georgetown":1,"E. Wash.":2,"SMU":2,"UCLA":1,"Iowa St.":4,"UAB":1,"Iowa":2,"Davidson":1,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 138
+	},
+	{
+		"name":"David D",
+		"bracket":{"Kentucky":7,"Hampton":1,"Cincinnati":1,"Purdue":2,"W. Virginia":2,"Buffalo":1,"Maryland":3,"Valparaiso":1,"Butler":2,"Texas":1,"Notre Dame":3,"Northeastern":1,"Wichita St.":4,"Indiana":1,"Kansas":2,"New Mex. St.":1,"Wisconsin":5,"Coast. Car.":1,"Oregon":1,"Oklahoma St.":2,"Arkansas":1,"Wofford":3,"N. Carolina":1,"Harvard":2,"Xavier":1,"Ole Miss":2,"Baylor":3,"Georgia St.":1,"VCU":1,"Ohio St.":2,"Arizona":4,"Texas So.":1,"Villanova":3,"Lafayette":1,"NC State":1,"LSU":2,"N. Iowa":5,"Wyoming":1,"Louisville":2,"UC Irvine":1,"Providence":1,"Dayton":3,"Oklahoma":2,"Albany":1,"Michigan St.":4,"Georgia":1,"Virginia":2,"Belmont":1,"Duke":4,"Robert Morris":1,"San Diego St":1,"St. John's":2,"Utah":1,"SF Austin":3,"Georgetown":1,"E. Wash.":2,"SMU":2,"UCLA":1,"Iowa St.":6,"UAB":1,"Iowa":1,"Davidson":2,"Gonzaga":3,"No. Dak. St.":1},
+		"tiebreaker": 135
+	}
+]

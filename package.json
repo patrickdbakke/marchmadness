@@ -1,0 +1,31 @@
+{
+  "name": "loader",
+  "version": "1.0.0",
+  "dependencies": {
+    "jshint-stylish": "^1.0.0",
+    "colors": "*",
+    "express": "*",
+    "glob": "4.0.6",
+    "q": "1.0.1",
+    "underscore": "1.7.0",
+
+    "load-grunt-tasks": "~0.2.1",
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-compass": "~0.7.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-preprocess": "~4.0.0",
+    "grunt-html2js": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "folders": {
+    "source": "static",
+    "dist": "dist"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}

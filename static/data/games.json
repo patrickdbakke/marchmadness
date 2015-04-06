@@ -1,0 +1,440 @@
+[
+	{
+	    "participants": ["Notre Dame", "Northeastern"],
+	    "time": 1426781700,
+	    "winner": "Notre Dame",
+	    "score": "69 to 65",
+	    "round": 1
+	},
+	{
+	    "participants": ["UAB", "Iowa St."],
+	    "time": 1426783200,
+	    "winner": "UAB",
+	    "score": "60 to 59",
+	    "round": 1
+	},
+	{
+	    "participants": ["Georgia St.", "Baylor"],
+	    "time": 1426786800,
+	    "winner": "Georgia St.",
+	    "score": "57 to 56",
+	    "round": 1
+	},
+	{
+	    "participants": ["Arizona", "Texas So."],
+	    "time": 1426788600,
+	    "winner": "Arizona",
+	    "score": "93 to 72",
+	    "round": 1
+	},
+	{
+	    "participants": ["Butler", "Texas"],
+	    "time": 1426791180,
+	    "winner": "Butler",
+	    "score": "56 to 48",
+	    "round": 1
+	},
+	{
+	    "participants": ["UCLA", "SMU"],
+	    "time": 1426792620,
+	    "winner": "UCLA",
+	    "score": "60 to 59",
+	    "round": 1
+	},
+	{
+	    "participants": ["Xavier", "Ole Miss"],
+	    "time": 1426796580,
+	    "winner": "Xavier",
+	    "score": "76 to 57",
+	    "round": 1
+	},
+	{
+	    "participants": ["Ohio St.", "VCU"],
+	    "time": 1426798380,
+	    "winner": "Ohio St.",
+	    "score": "75 to 72",
+	    "round": 1
+	},
+	{
+	    "participants": ["Villanova", "Lafayette"],
+	    "time": 1426805400,
+	    "winner": "Villanova",
+	    "score": "93 to 52",
+	    "round": 1
+	},
+	{
+	    "participants": ["Cincinnati", "Purdue"],
+	    "time": 1426806600,
+	    "winner": "Cincinnati",
+	    "score": "66 to 65",
+	    "round": 1
+	},
+	{
+	    "participants": ["N. Carolina", "Harvard"],
+	    "time": 1426807200,
+	    "winner": "N. Carolina",
+	    "score": "67 to 65",
+	    "round": 1
+	},
+	{
+	    "participants": ["Utah", "SF Austin"],
+	    "time": 1426810080,
+	    "winner": "Utah",
+	    "score": "57 to 50",
+	    "round": 1
+	},
+	{
+	    "participants": ["NC State", "LSU"],
+	    "time": 1426814580,
+	    "winner": "NC State",
+	    "score": "66 to 65",
+	    "round": 1
+	},
+	{
+	    "participants": ["Arkansas", "Wofford"],
+	    "time": 1426816740,
+	    "winner": "Arkansas",
+	    "score": "56 to 53",
+	    "round": 1
+	},
+	{
+	    "participants": ["Kentucky", "Hampton"],
+	    "time": 1426817700,
+	    "winner": "Kentucky",
+	    "score": "79 to 56",
+	    "round": 1
+	},
+	{
+	    "participants": ["Georgetown", "E. Wash."],
+	    "time": 1426819920,
+	    "winner": "Georgetown",
+	    "score": "84 to 74",
+	    "round": 1
+	},
+	{
+	    "participants": ["Kansas", "New Mex. St."],
+	    "time": 1426868100,
+	    "winner": "Kansas",
+	    "score": "75 to 56",
+	    "round": 1
+	},
+	{
+	    "participants": ["Michigan St.", "Georgia"],
+	    "time": 1426869600,
+	    "winner": "Michigan St.",
+	    "score": "70 to 63",
+	    "round": 1
+	},
+	{
+	    "participants": ["N. Iowa", "Wyoming"],
+	    "time": 1426873200,
+	    "winner": "N. Iowa",
+	    "score": "71 to 54",
+	    "round": 1
+	},
+	{
+	    "participants": ["W. Virginia", "Buffalo"],
+	    "time": 1426875000,
+	    "winner": "W. Virginia",
+	    "score": "68 to 62",
+	    "round": 1
+	},
+	{
+	    "participants": ["Wichita St.", "Indiana"],
+	    "time": 1426877520,
+	    "winner": "Wichita St.",
+	    "score": "81 to 76",
+	    "round": 1
+	},
+	{
+	    "participants": ["Virginia", "Belmont"],
+	    "time": 1426879800,
+	    "winner": "Virginia",
+	    "score": "79 to 67",
+	    "round": 1
+	},
+	{
+	    "participants": ["Louisville", "UC Irvine"],
+	    "time": 1426882860,
+	    "winner": "Louisville",
+	    "score": "57 to 55",
+	    "round": 1
+	},
+	{
+	    "participants": ["Maryland", "Valparaiso"],
+	    "time": 1426885920,
+	    "winner": "Maryland",
+	    "score": "65 to 62",
+	    "round": 1
+	},
+	{
+	    "participants": ["Oregon", "Oklahoma St."],
+	    "time": 1426891800,
+	    "winner": "Oregon",
+	    "score": "79 to 73",
+	    "round": 1
+	},
+	{
+	    "participants": ["Duke", "Robert Morris"],
+	    "time": 1426893000,
+	    "winner": "Duke",
+	    "score": "85 to 56",
+	    "round": 1
+	},
+	{
+	    "participants": ["Iowa", "Davidson"],
+	    "time": 1426894800,
+	    "winner": "Iowa",
+	    "score": "83 to 52",
+	    "round": 1
+	},
+	{
+	    "participants": ["Oklahoma", "Albany"],
+	    "time": 1426897020,
+	    "winner": "Oklahoma",
+	    "score": "69 to 60",
+	    "round": 1
+	},
+	{
+	    "participants": ["Wisconsin", "Coast. Car."],
+	    "time": 1426901280,
+	    "winner": "Wisconsin",
+	    "score": "86 to 72",
+	    "round": 1
+	},
+	{
+	    "participants": ["San Diego St", "St. John's"],
+	    "time": 1426902120,
+	    "winner": "San Diego St",
+	    "score": "76 to 64",
+	    "round": 1
+	},
+	{
+	    "participants": ["Gonzaga", "No. Dak. St."],
+	    "time": 1426903800,
+	    "winner": "Gonzaga",
+	    "score": "86 to 76",
+	    "round": 1
+	},
+	{
+	    "participants": ["Dayton", "Providence"],
+	    "time": 1426906380,
+	    "winner": "Dayton",
+	    "score": "66 to 53",
+	    "round": 1
+	},
+	{
+	    "participants": ["UCLA", "UAB"],
+	    "time": 1426954200,
+	    "winner": "UCLA",
+	    "score": "92 to 75",
+	    "round": 2
+	},
+	{
+	    "participants": ["Kentucky", "Cincinnati"],
+	    "time": 1426963980,
+	    "winner": "Kentucky",
+	    "score": "64 to 51",
+	    "round": 2
+	},
+	{
+	    "participants": ["Arizona", "Ohio St."],
+	    "time": 1426972800,
+	    "winner": "Arizona",
+	    "score": "73 to 58",
+	    "round": 2
+	},
+	{
+	    "participants": ["Xavier", "Georgia St."],
+	    "time": 1426975800,
+	    "winner": "Xavier",
+	    "score": "75 to 67",
+	    "round": 2
+	},
+	{
+	    "participants": ["NC State", "Villanova"],
+	    "time": 1426979400,
+	    "winner": "NC State",
+	    "score": "71 to 68",
+	    "round": 2
+	},
+	{
+	    "participants": ["Utah", "Georgetown"],
+	    "time": 1426982400,
+	    "winner": "Utah",
+	    "score": "75 to 64",
+	    "round": 2
+	},
+	{
+	    "participants": ["N. Carolina", "Arkansas"],
+	    "time": 1426985400,
+	    "winner": "N. Carolina",
+	    "score": "87 to 78",
+	    "round": 2
+	},
+	{
+	    "participants": ["Notre Dame", "Butler"],
+	    "time": 1426989840,
+	    "winner": "Notre Dame",
+	    "score": "67 to 64",
+	    "round": 2
+	},
+	{
+	    "participants": ["Michigan St.", "Virginia"],
+	    "time": 1427040600,
+	    "winner": "Michigan St.",
+	    "score": "60 to 54",
+	    "round": 2
+	},
+	{
+	    "participants": ["Duke", "San Diego St"],
+	    "time": 1427050440,
+	    "winner": "Duke",
+	    "score": "68 to 49",
+	    "round": 2
+	},
+	{
+	    "participants": ["Wichita St.", "Kansas"],
+	    "time": 1427058900,
+	    "winner": "Wichita St.",
+	    "score": "78 to 65",
+	    "round": 2
+	},
+	{
+	    "participants": ["Oklahoma", "Dayton"],
+	    "time": 1427062200,
+	    "winner": "Oklahoma",
+	    "score": "72 to 66",
+	    "round": 2
+	},
+	{
+	    "participants": ["Gonzaga", "Iowa"],
+	    "time": 1427065800,
+	    "winner": "Gonzaga",
+	    "score": "87 to 68",
+	    "round": 2
+	},
+	{
+	    "participants": ["Wisconsin", "Oregon"],
+	    "time": 1427069040,
+	    "winner": "Wisconsin",
+	    "score": "72 to 65",
+	    "round": 2
+	},
+	{
+	    "participants": ["W. Virginia", "Maryland"],
+	    "time": 1427072460,
+	    "winner": "W. Virginia",
+	    "score": "69 to 59",
+	    "round": 2
+	},
+	{
+	    "participants": ["Louisville", "N. Iowa"],
+	    "time": 1427075280,
+	    "winner": "Louisville",
+	    "score": "66 to 53",
+	    "round": 2
+	},
+	{
+	    "participants": ["Notre Dame", "Wichita St."],
+	    "time": 1427411700,
+	    "winner": "Notre Dame",
+	    "score": "81 to 70",
+	    "round": 3
+	},
+	{
+	    "participants": ["Wisconsin", "N. Carolina"],
+	    "time": 1427413620,
+	    "winner": "Wisconsin",
+	    "score": "79 to 72",
+	    "round": 3
+	},
+	{
+	    "participants": ["Kentucky", "W. Virginia"],
+	    "time": 1427420940,
+	    "winner": "Kentucky",
+	    "score": "78 to 39",
+	    "round": 3
+	},
+	{
+	    "participants": ["Arizona", "Xavier"],
+	    "time": 1427423640,
+	    "winner": "Arizona",
+	    "score": "68 to 60",
+	    "round": 3
+	},
+	{
+	    "participants": ["Gonzaga", "UCLA"],
+	    "time": 1427498100,
+	    "winner": "Gonzaga",
+	    "score": "74 to 62",
+	    "round": 3
+	},
+	{
+	    "participants": ["Louisville", "NC State"],
+	    "time": 1427499420,
+	    "winner": "Louisville",
+	    "score": "75 to 65",
+	    "round": 3
+	},
+	{
+	    "participants": ["Duke", "Utah"],
+	    "time": 1427507580,
+	    "winner": "Duke",
+	    "score": "63 to 57",
+	    "round": 3
+	},
+	{
+	    "participants": ["Michigan St.", "Oklahoma"],
+	    "time": 1427508960,
+	    "winner": "Michigan St.",
+	    "score": "62 to 58",
+	    "round": 3
+	},
+	{
+	    "participants": ["Wisconsin", "Arizona"],
+	    "time": 1427580540,
+	    "winner": "Wisconsin",
+	    "score": "85 to 78",
+	    "round": 4
+	},
+	{
+	    "participants": ["Kentucky", "Notre Dame"],
+	    "time": 1427590140,
+	    "winner": "Kentucky",
+	    "score": "68 to 66",
+	    "round": 4
+	},
+	{
+	    "participants": ["Michigan St.", "Louisville"],
+	    "time": 1427653200,
+	    "winner": "Michigan St.",
+	    "score": "76 to 70",
+	    "round": 4
+	},
+	{
+	    "participants": ["Duke", "Gonzaga"],
+	    "time": 1427663100,
+	    "winner": "Duke",
+	    "score": "66 to 52",
+	    "round": 4
+	},
+	{
+	    "participants": ["Michigan St.", "Duke"],
+	    "time": 1428185340,
+	    "winner": null,
+	    "round": 5
+	},
+	{
+	    "participants": ["Wisconsin", "Kentucky"],
+	    "time": 1428194940,
+	    "winner": null,
+	    "round": 5
+	},
+	{
+	    "participants": ["Unknown", "Unknown"],
+	    "time": 1428194941,
+	    "winner": null,
+	    "round": 6
+	}
+]

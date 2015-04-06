@@ -1,0 +1,47 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie10 lt-ie9"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>March Madness</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="stylesheet" href="css/normalize.css"/>
+        <link rel="stylesheet" href="css/site.css"/>
+    </head>
+    <body>
+        <div ng-app="marchmadness" id="marchmadness" ui-view>asdf
+        </div>
+        
+        <script type='text/javascript' src='js/bower_components/lodash/lodash.js'></script> 
+        <script type='text/javascript' src='js/bower_components/angular/angular.js'></script> 
+        <script type='text/javascript' src='js/bower_components/angular-google-analytics/src/angular-google-analytics.js'></script> 
+        <script type='text/javascript' src='js/bower_components/angular-ui-router/release/angular-ui-router.js'></script> 
+        <script type='text/javascript' src='js/bower_components/jquery/dist/jquery.js'></script> 
+        <script type='text/javascript' src='js/libs/three/three-53.js'></script>
+        <script type='text/javascript' src='js/libs/three/threex.js'></script>
+        <script type='text/javascript' src='js/libs/three/three.orbital-controls.js'></script>
+
+        <script type='text/javascript' src="js/app.js"></script>
+        
+        <!-- build:js js/templates.js -->
+        <script type='text/javascript' src="js/templates.js"></script>
+        <!-- endbuild -->
+
+        <script type='text/javascript' src="js/services/data/teams.js"></script>
+        <script type='text/javascript' src="js/services/data/brackets.js"></script>
+        <script type='text/javascript' src="js/services/data/games.js"></script>
+        
+        <script type='text/javascript' src="js/directives/line-chart.js"></script>
+        <script type='text/javascript' src="js/directives/bracket.js"></script>
+        
+        <script type='text/javascript' src="js/controllers/bracket.js"></script>
+
+        <script type='text/javascript' src="js/config.js"></script>
+        <script type='text/javascript' src="js/routes/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,4 @@
+.sass-cache/*
+static/css/*
+**/node_modules/*
+**/bower_components/*

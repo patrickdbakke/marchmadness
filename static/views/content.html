@@ -1,0 +1,22 @@
+<div class="full">
+	<div class="half" style="border-right: 1px solid white;background: #3F51B5;">
+		<div line-chart id="lineChart"></div>
+	</div>
+	<div class="half right">
+		<div bracket id="bracket" class="full"></div>
+		<div class="rounds">
+			<div class="round" ng-repeat="round in [1]" ng-class="'round'+round">
+				<div class="game" ng-repeat="game in games | filter:{round:round}">
+					<div>
+						<span class="team">
+							<span class="name" style="background-color:{{game.teams[0].colors[0]}};color:{{game.teams[0].colors[1]}};">{{game.participants[0]}}</span>
+						</span>
+						<span class="team">
+							<span class="name" style="background-color:{{game.teams[1].colors[0]}};color:{{game.teams[1].colors[1]}};">{{game.participants[1]}}</span>
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
